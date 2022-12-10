@@ -27,7 +27,7 @@ export default function App() {
       <div className="btn__container">
         <button className="control__btn" onClick={increase}>+</button>
         <button className="control__btn" onClick={decrease}>-</button>
-        <button className="reset" onClick={reset}>Reset</button>
+        <button className="reset" onClick={reset}>Resets</button>
       </div>
     </div>
   );
